@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BC94CEE9-86BD-45CA-B5A8-784582623DD2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FactoryPattern</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>16778F2315BD75429512286D2623C261A2AD22B1</key>
+		<string>https://github.com/YouXianMing/FactoryPattern.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FactoryPattern.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>16778F2315BD75429512286D2623C261A2AD22B1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/YouXianMing/FactoryPattern.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>16778F2315BD75429512286D2623C261A2AD22B1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>16778F2315BD75429512286D2623C261A2AD22B1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FactoryPattern%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%AE%8C%E6%95%B4%E5%AE%9E%E7%8E%B0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
